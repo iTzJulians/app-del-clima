@@ -1,0 +1,11 @@
+{
+  "name": "app-del-clima",
+  "private": true,
+  "version": "1.0.0",
+  "description": "App del clima 100% vanilla JS (HTML + CSS + ES modules), consume Open-Meteo",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve",
+    "test": "node --test test/"
+  }
+}
